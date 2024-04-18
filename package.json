@@ -1,0 +1,16 @@
+{
+  "name": "chatme",
+  "version": "1.0.0",
+  "description": "This Is Develop By Mr.Dhameliya For Real Time Chat With  Friend",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "Mr.Dhameliya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.5"
+  }
+}
